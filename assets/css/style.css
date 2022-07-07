@@ -77,7 +77,15 @@ textarea {
   margin-bottom: 15vh;
 }
 
+#mainCard {
+  display:none;
+}
 
 #cityLabel {
   font-size: 25px;
+}
+
+#mainCardImg {
+  height: 300px;
+  width: 300px;
 }
